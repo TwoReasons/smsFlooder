@@ -4,7 +4,9 @@ smsFlooder is a Python script that utilizes the Twilio API to flood a number wit
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Twilio.
+1. Install [Python3](https://www.python.org/downloads/)
+
+2. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Twilio.
 
 ```bash
 sudo pip install twilio
@@ -25,3 +27,6 @@ sudo python3 smsFlood.py
  • Ability to send messages from multiple numbers
  
  • (Hopefully) GUI
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
